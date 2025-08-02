@@ -1,52 +1,79 @@
-<h1 align="center">Hi, I'm Abdul Rahman Abdul Raouf 👋<span class="wave">👋</span></h1>
+<!-- HEADER -->
+<h1 align="center">
+  Hi, I'm Abdul Rahman Abdul Raouf 
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+</h1>
 
-<!-- A little CSS for the waving animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Junior+.NET+Full-Stack+Developer;React+%7C+Angular+%7C+ASP.NET+Core;Fast+Learner+%7C+Problem+Solver" />
+</p>
 
-<style>
-.wave {
-animation-name: wave-animation;
-animation-duration: 2.5s;
-animation-iteration-count: infinite;
-transform-origin: 70% 70%;
-display: inline-block;
-}
-@keyframes wave-animation {
-0%   { transform: rotate( 0.0deg) }
-10%  { transform: rotate(14.0deg) }
-20%  { transform: rotate(-8.0deg) }
-30%  { transform: rotate(14.0deg) }
-40%  { transform: rotate(-4.0deg) }
-50%  { transform: rotate(10.0deg) }
-60%  { transform: rotate( 0.0deg) }
-100% { transform: rotate( 0.0deg) }
-}
-</style>
+---
 
-A passionate Junior .NET Full-Stack Developer with a Bachelor's degree in Computer Science and hands-on experience in both the .NET and MEAN stacks. I am a fast learner and a motivated problem-solver with a strong foundation in building responsive, scalable, and secure web applications.
+### 👨‍💻 About Me
+A passionate **Junior .NET Full-Stack Developer** with a Bachelor's degree in **Computer Science** and hands-on experience in both the **.NET** and **MEAN stacks**.  
+I am a **fast learner**, **motivated problem-solver**, and dedicated to building **responsive, scalable, and secure web applications**.
 
-I thrive in collaborative environments and am committed to writing clean, maintainable code. My expertise spans from front-end development with React and Angular to back-end services with ASP.NET Core and data management with SQL Server and MongoDB.
+✅ Love writing **clean and maintainable code**  
+✅ Thrive in **collaborative environments**  
+✅ Skilled in **front-end (React & Angular)** and **back-end (ASP.NET Core, SQL, MongoDB)**  
 
-My Technical Toolbox
-Featured Project
-E-Commerce Platform
-Technologies: HTML, CSS, JavaScript (ES5 & ES6), db.json
+---
 
-Description: A full-featured e-commerce platform with a focus on simulating real-world workflows. I engineered secure, role-based dashboards for different user types (Admin, Seller, Customer, Guest), implemented dynamic product filtering, and designed a fully responsive UI. This project demonstrates my ability to manage complex business logic and create intuitive user experiences from the ground up.
+### 🛠️ My Technical Toolbox
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET Core" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git" />
+</p>
 
-Experience & Education
-Internships
+---
 
-NET Full Stack Developer: Gained comprehensive experience with .NET Core, Angular, Entity Framework Core, and SQL Server. Applied principles of clean architecture and layered design to build robust web applications.
+### 🚀 Featured Project: **E-Commerce Platform**
+<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" />
 
-MEAN Stack Developer: Trained on the complete MEAN stack, building projects that covered CRUD operations, API integration, and component-based UI.
+**Technologies:** HTML, CSS, JavaScript (ES5 & ES6), db.json  
+**Description:**  
+✅ Full-featured e-commerce platform simulating real-world workflows  
+✅ Secure, role-based dashboards (Admin, Seller, Customer, Guest)  
+✅ Dynamic product filtering  
+✅ Fully responsive UI  
 
-Education
+---
 
-Bachelor of Computer Science - Information Technology | Zagazig University
+### 💼 Experience & Education
+#### **Internships**
+- **.NET Full Stack Developer**  
+  ✅ Hands-on experience with **.NET Core**, **Angular**, **Entity Framework Core**, and **SQL Server**  
+  ✅ Applied **Clean Architecture** and **Layered Design**
 
-Let's Connect!
-LinkedIn: linkedin.com/in/abdulrahman-mohamed-ab40571ba
+- **MEAN Stack Developer**  
+  ✅ Built projects covering **CRUD operations**, **API integration**, and **component-based UI**  
 
-Email: abdelrahmanrauf77@gmail.com
+#### **Education**
+🎓 **Bachelor of Computer Science - Information Technology**  
+Zagazig University  
 
-GitHub: github.com/abdomohammed2002
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdomohammed2002&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdomohammed2002&theme=tokyonight" height="150" />
+</p>
+
+---
+
+### 🔗 Let's Connect!
+<p align="center">
+  <a href="https://linkedin.com/in/abdulrahman-mohamed-ab40571ba"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin" /></a>
+  <a href="https://github.com/abdomohammed2002"><img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" /></a>
+  <a href="mailto:abdelrahmanrauf77@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?logo=gmail" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
