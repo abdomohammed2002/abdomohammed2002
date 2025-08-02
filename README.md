@@ -4,10 +4,10 @@
 
 <style>
 .wave {
-animation-name: wave-animation;  /* Refers to the name of the animation /
-animation-duration: 2.5s;        / The duration of the animation /
-animation-iteration-count: infinite;  / The number of times the animation will repeat /
-transform-origin: 70% 70%;       / Sets the origin for the transform property */
+animation-name: wave-animation;
+animation-duration: 2.5s;
+animation-iteration-count: infinite;
+transform-origin: 70% 70%;
 display: inline-block;
 }
 @keyframes wave-animation {
@@ -26,17 +26,17 @@ A passionate Junior .NET Full-Stack Developer with a Bachelor's degree in Comput
 
 I thrive in collaborative environments and am committed to writing clean, maintainable code. My expertise spans from front-end development with React and Angular to back-end services with ASP.NET Core and data management with SQL Server and MongoDB.
 
-💻 My Technical Toolbox
-🚀 Featured Project
+My Technical Toolbox
+Featured Project
 E-Commerce Platform
 Technologies: HTML, CSS, JavaScript (ES5 & ES6), db.json
 
 Description: A full-featured e-commerce platform with a focus on simulating real-world workflows. I engineered secure, role-based dashboards for different user types (Admin, Seller, Customer, Guest), implemented dynamic product filtering, and designed a fully responsive UI. This project demonstrates my ability to manage complex business logic and create intuitive user experiences from the ground up.
 
-🎓 Experience & Education
+Experience & Education
 Internships
 
-.NET Full Stack Developer: Gained comprehensive experience with .NET Core, Angular, Entity Framework Core, and SQL Server. Applied principles of clean architecture and layered design to build robust web applications.
+NET Full Stack Developer: Gained comprehensive experience with .NET Core, Angular, Entity Framework Core, and SQL Server. Applied principles of clean architecture and layered design to build robust web applications.
 
 MEAN Stack Developer: Trained on the complete MEAN stack, building projects that covered CRUD operations, API integration, and component-based UI.
 
@@ -44,7 +44,7 @@ Education
 
 Bachelor of Computer Science - Information Technology | Zagazig University
 
-📫 Let's Connect!
+Let's Connect!
 LinkedIn: linkedin.com/in/abdulrahman-mohamed-ab40571ba
 
 Email: abdelrahmanrauf77@gmail.com
